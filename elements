@@ -1,0 +1,45 @@
+<tagname attr="value">Content</tagname>
+
+<header></header>
+
+<nav> </nav>
+
+<footer></footer>
+
+<aside></aside>
+
+<section></section> <div></div>
+
+<main></main>
+
+<article></article>
+
+Headings:
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+Paragraphs:
+<p></p>
+<span></span>
+
+List (Unordered /. Ordered List)
+<ul>
+  <li></li>
+  <li></li>
+</ul>
+<ol>
+  <li></li>
+  <li>
+    <ul>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+</ol>
+
+Anchors
+<a></a>
